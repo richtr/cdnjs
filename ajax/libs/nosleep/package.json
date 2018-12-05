@@ -22,7 +22,7 @@
     "target": "git://github.com/richtr/NoSleep.js.git",
     "fileMap": [
       {
-        "basePath": "",
+        "basePath": "dist",
         "files": [
           "NoSleep*"
         ]
